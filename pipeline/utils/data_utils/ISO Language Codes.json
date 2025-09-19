@@ -1,0 +1,242 @@
+{
+  "Arabic": {
+    "Code": "ar",
+    "Flores_code": "arb_Arab",
+    "Resource": "high"
+  },
+  "Azerbaijani": {
+    "Code": "az",
+    "Flores_code": "azj_Latn",
+    "Resource": "low"
+  },
+  "Basque": {
+    "Code": "eu",
+    "Flores_code": "eus_Latn",
+    "Resource": "very low"
+  },
+  "Bengali": {
+    "Code": "bn",
+    "Flores_code": "ben_Beng",
+    "Resource": "moderate"
+  },
+  "Catalan": {
+    "Code": "ca",
+    "Flores_code": "cat_Latn",
+    "Resource": "moderate"
+  },
+  "Central Khmer": {
+    "Code": "km",
+    "Flores_code": "khm_Khmr",
+    "Resource": "low"
+  },
+  "Chinese": {
+    "Code": "zh",
+    "Flores_code": "zho_Hans",
+    "Resource": "high"
+  },
+  "Croatian": {
+    "Code": "hr",
+    "Flores_code": "hrv_Latn",
+    "Resource": "low"
+  },
+  "Czech": {
+    "Code": "cs",
+    "Flores_code": "ces_Latn",
+    "Resource": "high"
+  },
+  "Danish": {
+    "Code": "da",
+    "Flores_code": "dan_Latn",
+    "Resource": "high"
+  },
+  "Dutch": {
+    "Code": "nl",
+    "Flores_code": "nld_Latn",
+    "Resource": "high"
+  },
+  "English": {
+    "Code": "en",
+    "Flores_code": "eng_Latn",
+    "Resource": "high"
+  },
+  "Estonian": {
+    "Code": "et",
+    "Flores_code": "est_Latn",
+    "Resource": "moderate"
+  },
+  "Finnish": {
+    "Code": "fi",
+    "Flores_code": "fin_Latn",
+    "Resource": "high"
+  },
+  "French": {
+    "Code": "fr",
+    "Flores_code": "fra_Latn",
+    "Resource": "high"
+  },
+  "German": {
+    "Code": "de",
+    "Flores_code": "deu_Latn",
+    "Resource": "high"
+  },
+  "Gujarati": {
+    "Code": "gu",
+    "Flores_code": "guj_Gujr",
+    "Resource": "low"
+  },
+  "Hausa": {
+    "Code": "ha",
+    "Flores_code": "hau_Latn",
+    "Resource": "low"
+  },
+  "Hebrew": {
+    "Code": "he",
+    "Flores_code": "heb_Hebr",
+    "Resource": "moderate"
+  },
+  "Hindi": {
+    "Code": "hi",
+    "Flores_code": "hin_Deva",
+    "Resource": "moderate"
+  },
+  "Icelandic": {
+    "Code": "is",
+    "Flores_code": "isl_Latn",
+    "Resource": "moderate"
+  },
+  "Indonesian": {
+    "Code": "id",
+    "Flores_code": "ind_Latn",
+    "Resource": "moderate"
+  },
+  "Italian": {
+    "Code": "it",
+    "Flores_code": "ita_Latn",
+    "Resource": "high"
+  },
+  "Japanese": {
+    "Code": "ja",
+    "Flores_code": "jpn_Jpan",
+    "Resource": "high"
+  },
+  "Kannada": {
+    "Code": "kn",
+    "Flores_code": "kan_Knda",
+    "Resource": "low"
+  },
+  "Kazakh": {
+    "Code": "kk",
+    "Flores_code": "kaz_Cyrl",
+    "Resource": "moderate"
+  },
+  "Korean": {
+    "Code": "ko",
+    "Flores_code": "kor_Hang",
+    "Resource": "high"
+  },
+  "Latvian": {
+    "Code": "lv",
+    "Flores_code": "lvs_Latn",
+    "Resource": "moderate"
+  },
+  "Lithuanian": {
+    "Code": "lt",
+    "Flores_code": "lit_Latn",
+    "Resource": "moderate"
+  },
+  "Marathi": {
+    "Code": "mr",
+    "Flores_code": "mar_Deva",
+    "Resource": "low"
+  },
+  "Norwegian": {
+    "Code": "nb",
+    "Flores_code": "nob_Latn",
+    "Resource": "high"
+  },
+  "Pashto": {
+    "Code": "ps",
+    "Flores_code": "pbt_Arab",
+    "Resource": "low"
+  },
+  "Polish": {
+    "Code": "pl",
+    "Flores_code": "pol_Latn",
+    "Resource": "high"
+  },
+  "Portuguese": {
+    "Code": "pt",
+    "Flores_code": "por_Latn",
+    "Resource": "high"
+  },
+  "Russian": {
+    "Code": "ru",
+    "Flores_code": "rus_Cyrl",
+    "Resource": "high"
+  },
+  "Spanish": {
+    "Code": "es",
+    "Flores_code": "spa_Latn",
+    "Resource": "high"
+  },
+  "Swahili": {
+    "Code": "sw",
+    "Flores_code": "swh_Latn",
+    "Resource": "low"
+  },
+  "Swedish": {
+    "Code": "sv",
+    "Flores_code": "swe_Latn",
+    "Resource": "high"
+  },
+  "Tagalog": {
+    "Code": "tl",
+    "Flores_code": "tgl_Latn",
+    "Resource": "low"
+  },
+  "Tamil": {
+    "Code": "ta",
+    "Flores_code": "tam_Taml",
+    "Resource": "low"
+  },
+  "Telugu": {
+    "Code": "te",
+    "Flores_code": "tel_Telu",
+    "Resource": "low"
+  },
+  "Thai": {
+    "Code": "th",
+    "Flores_code": "tha_Thai",
+    "Resource": "low"
+  },
+  "Turkish": {
+    "Code": "tr",
+    "Flores_code": "tur_Latn",
+    "Resource": "high"
+  },
+  "Ukrainian": {
+    "Code": "uk",
+    "Flores_code": "ukr_Cyrl",
+    "Resource": "high"
+  },
+  "Urdu": {
+    "Code": "ur",
+    "Flores_code": "urd_Arab",
+    "Resource": "low"
+  },
+  "Vietnamese": {
+    "Code": "vi",
+    "Flores_code": "vie_Latn",
+    "Resource": "moderate"
+  },
+  "Xhosa": {
+    "Code": "xh",
+    "Flores_code": "xho_Latn",
+    "Resource": "low"
+  },
+  "Zulu": {
+    "Code": "zu",
+    "Flores_code": "zul_Latn",
+    "Resource": "low"
+  }
+}

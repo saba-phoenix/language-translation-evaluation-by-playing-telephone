@@ -1,0 +1,37 @@
+name,Code,Flores_code,Resource
+Arabic,ar,arb_Arab,high
+Azerbaijani,az,azj_Latn,low
+Basque,eu,eus_Latn,very low
+Bengali,bn, ben_Beng,moderate
+Catalan,ca,cat_Latn,moderate
+Chinese,zh,zho_Hans,high
+Croatian,hr,hrv_Latn,low
+Czech,cs,ces_Latn,high
+Danish,da,dan_Latn,high
+Dutch,nl,nld_Latn,high
+English,en,eng_Latn,high
+Finnish,fi,fin_Latn,high
+French,fr,fra_Latn,high
+German,de,deu_Latn,high
+Gujarati,gu,guj_Gujr,low
+Hausa,ha,hau_Latn,low
+Hebrew,he,heb_Hebr,moderate
+Hindi,hi,hin_Deva,moderate
+Indonesian,id,ind_Latn,moderate
+Italian,it,ita_Latn,high
+Kannada,kn,kan_Knda,low
+Marathi,mr,mar_Deva,low
+Norwegian,nb,nob_Latn,high
+Polish,pl,pol_Latn,high
+Portuguese,pt,por_Latn,high
+Spanish,es,spa_Latn,high
+Swahili,sw,swh_Latn,low
+Swedish,sv,swe_Latn,high
+Tagalog,tl,tgl_Latn,low
+Tamil,ta,tam_Taml,low
+Telugu,te,tel_Telu,low
+Thai,th,tha_Thai,low
+Turkish,tr,tur_Latn,high
+Ukrainian,uk,ukr_Cyrl,high
+Urdu,ur,urd_Arab,low
+Vietnamese,vi,vie_Latn,moderate

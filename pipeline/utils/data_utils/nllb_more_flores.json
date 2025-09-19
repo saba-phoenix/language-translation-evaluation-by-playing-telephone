@@ -1,0 +1,62 @@
+{
+  "German": {
+    "Code": "de",
+    "Flores_code": "deu_Latn",
+    "Resource": "high"
+  },
+  "Turkish": {
+    "Code": "tr",
+    "Flores_code": "tur_Latn",
+    "Resource": "high"
+  },
+  "Finnish": {
+    "Code": "fi",
+    "Flores_code": "fin_Latn",
+    "Resource": "high"
+  },
+  "Latvian": {
+    "Code": "lv",
+    "Flores_code": "lav_Latn",
+    "Resource": "moderate"
+  },
+  "Hausa": {
+    "Code": "ha",
+    "Flores_code": "hau_Latn",
+    "Resource": "low"
+  },
+  "Czech": {
+    "Code": "cs",
+    "Flores_code": "ces_Latn",
+    "Resource": "high"
+  },
+  "Russian": {
+    "Code": "ru",
+    "Flores_code": "rus_Cyrl",
+    "Resource": "high"
+  },
+  "Estonian": {
+    "Code": "et",
+    "Flores_code": "est_Latn",
+    "Resource": "moderate"
+  },
+  "Chinese": {
+    "Code": "zh",
+    "Flores_code": "zho_Hans",
+    "Resource": "high"
+  },
+  "Japanese": {
+    "Code": "ja",
+    "Flores_code": "jpn_Jpan",
+    "Resource": "high"
+  },
+  "Lithuanian": {
+    "Code": "lt",
+    "Flores_code": "lit_Latn",
+    "Resource": "moderate"
+  },
+  "English": {
+    "Code": "en",
+    "Flores_code": "eng_Latn",
+    "Resource": "high"
+  }
+}
