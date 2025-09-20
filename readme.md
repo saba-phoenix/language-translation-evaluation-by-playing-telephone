@@ -1,6 +1,6 @@
 # Evaluating Language Translation Models by Playing Telephone (EMNLP 2025)
 
-This repository contains code, data preparation utilities, and evaluation scripts for our paper.
+This repository contains code, data preparation utilities, trained models and evaluation scripts for our long paper published in the EMNLP 2025 Main Conference: _“Evaluating Language Translation Models by Playing Telephone.”_
 
 ## Trained Models
 
@@ -35,5 +35,5 @@ This repository contains code, data preparation utilities, and evaluation script
 2. [Model-Rotation-No-Reference](https://drive.google.com/file/d/1Bbi5jBW16V6-YNfPiBezF_ZmOP4wm6c4/view?usp=sharing)
 3. [Language-Rotation-LD](https://drive.google.com/file/d/1V3vOnY9xsYDTqen4kJsP6F7xq4UnG7WL/view?usp=sharing)
 4. [Language-Rotation-LDD](https://drive.google.com/file/d/17GCoQvXSKJv2er7wAMghsWPTO8k-qeaI/view?usp=sharing)
-5. [Language-Rotation-HD](​​https://drive.google.com/file/d/1YPuodIPyURg56cE2PPi6kwOKI6YDgWyQ/view?usp=sharing)
+5. [Language-Rotation-HD](https://drive.google.com/file/d/1YPuodIPyURg56cE2PPi6kwOKI6YDgWyQ/view?usp=drive_link)
 6. [Language-Rotation-HDD](https://drive.google.com/file/d/1cBHcNYlw4AsR9IPFBBkxMVoEXRuKjNLe/view?usp=drive_link)
