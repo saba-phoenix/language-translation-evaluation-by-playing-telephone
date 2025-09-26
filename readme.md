@@ -1,6 +1,6 @@
 # Evaluating Language Translation Models by Playing Telephone (EMNLP 2025)
 
-This repository contains code, data preparation utilities, trained models and evaluation scripts for our long paper published in the EMNLP 2025 Main Conference: _“Evaluating Language Translation Models by Playing Telephone.”_
+This repository contains code, data preparation utilities, trained models and evaluation scripts for our long paper published in the EMNLP 2025 Main Conference: [_“Evaluating Language Translation Models by Playing Telephone.”_](https://arxiv.org/pdf/2509.19611)
 
 ## Trained Models
 
